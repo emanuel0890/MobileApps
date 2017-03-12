@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="resume">Resume Location Update</string>
+    <string name="pause">Pause Location Updates</string>
+</resources>
