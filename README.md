@@ -1,3 +1,5 @@
+Instructions
+
 git clone -b developmentSugar https://github.ibm.com/amtools/AMMobileApp.git
 
 git status (Posicionado en el directorio del proyecto)
